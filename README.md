@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrew-Bolt
-- 👀 Postdoctoral Research Fellow CSIRO @ Brisbane Dutton Park
-- 🌱 Currently researching applications of machine learning to bushfire spread modelling
+- 👀 Data Analyst CSIRO @ St. Lucia
+- 🌱 Data wrangling
 - 📫 andrew.bolt@csiro.au
 
 <!---
